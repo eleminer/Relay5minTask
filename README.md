@@ -5,3 +5,8 @@ Wenn ein Knopf gedrückt wird, soll ein Arduino 5 min lang ein Signal an ein Rel
 
 Als Hardware wird ein Arduino Nano verwendet.
 
+Pinbelegung:
+<ul>
+<li>Relay: D3</li>
+<li>Taster: D2 und GND</li>
+</ul>
